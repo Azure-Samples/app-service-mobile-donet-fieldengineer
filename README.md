@@ -84,7 +84,7 @@ See [LICENSE](https://github.com/Azure-Samples/app-service-mobile-dotnet-fielden
 ### See also
 
  - The Xamarin CRM app utilizing Azure Mobile
-   - [Try it now](aka.ms/trymobile)
+   - [Try it now](https://aka.ms/trymobile)
    - [Source on GitHub](https://github.com/xamarin/app-crm/)
  - [Azure Mobile Apps on Azure.com](https://azure.microsoft.com/en-us/services/app-service/mobile/)
  - [Kirill Gavrylyuk giving this demo on Azure Fridays](https://channel9.msdn.com/Shows/Azure-Friday/Azure-App-Service-Mobile-Apps-with-Kirill-Gavrylyuk)
